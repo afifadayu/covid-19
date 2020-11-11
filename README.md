@@ -75,9 +75,16 @@ fviz_cluster(covidCluster, data = dataCovidNew)
 9. Adding Jakarta Maps **[!Coming Soon]**
 
 #### Conclusion
-##### There are 3 clusters (1st cluster is the good place, 2nd medium, 3rd bad)
-> 1st Cluster: 146 sub-districts \
-> 2nd Cluster: 29 sub-districts \
-> 3rd Cluster: 92 sub-districts 
+##### Summary of the data Cluster
+| Cluster | Suspect    | Probable   | Travel Person | Direct Contact | Discarded   | Positive   |
+|---------|------------|------------|---------------|----------------|-------------|------------|
+| 1       | 0.2015917  | 0.0936914  | -0.04231536   | 0.1538247      | 0.08338454  | 0.2365707  |
+| 2       | 1.8271435  | 0.9853687  | 1.19529068    | 1.9311284      | 1.48988598  | 1.7963892  |
+| 3       | -0.8958647 | -0.4592895 | -0.30962376   | -0.8528384     | -0.60196562 | -0.9416806 |
+
+##### There are 3 clusters (Low, Mid, High)
+> 1st Cluster: 146 sub-districts (Mid) \
+> 2nd Cluster: 29 sub-districts (High) \
+> 3rd Cluster: 92 sub-districts (Low) 
 
 Stay at home and stay healthy, everyone!
