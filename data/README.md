@@ -2,6 +2,15 @@
 
 ### Low: 3rd Cluster
 
+| Cities          | Sub-district                                                                                                                                                                                                                                                                  |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| West Jakarta    | ANGKE, DURI SELATAN,DURI UTARA, GLODOK, JEMBATAN LIMA, KALI ANYAR, KAMAL, KEAGUNGAN, KELAPA DUA, KERENDANG, KRUKUT, MANGGA BESAR, MAPHAR, PEKOJAN, PINANGSIA, ROA MALAKA,  TAMAN SARI, TAMBORA, TANAH SEREAL, TANGKI, TANJUNG DUREN UTARA                                     |
+| Central Jakarta | BUNGUR, CIDENG, CIKINI, DURI PULO, GAMBIR, GELORA, GONDANGDIA, GUNUNG SAHARI SELATAN,  GUNUNG SAHARI UTARA, KAMPUNG BALI, KARET TENGSIN, KARTINI, KEBON KELAPA, KEBON SIRIH,  KENARI, KWITANG, PASAR BARU, PETOJO UTARA, SENEN                                                |
+| South Jakarta   | CIKOKO, CIPETE SELATAN, GANDARIA SELATAN, GUNTUR, GUNUNG, KARET, KARET KUNINGAN, KARET SEMANGGI, KRAMAT PELA, KUNINGAN BARAT, KUNINGAN TIMUR, MANGGARAI SELATAN, MELAWAI, PENGADEGAN, PETOGOGAN, PULO, RAWA BARAT, RAWA JATI, SELONG, SENAYAN, SETIA BUDI, TEBET TIMUR        |
+| East Jakarta    | BALI MESTER, BAMBU APUS, BARU, CEGER, CILANGKAP, CIPINANG BESAR SELATAN, CIPINANG CEMPEDAK, DUKUH, JATINEGARA KAUM, KAMPUNG MELAYU, KEBON MANGGIS, MALAKA JAYA, MALAKA SARI, MUNJUL, PINANG RANTI, PONDOK KOPI, PONDOK RANGGON,  RAWA BUNGA, RAWA TERATE, SETU, UJUNG MENTENG |
+| North Jakarta   | KAMAL MUARA, KAPUK MUARA, MARUNDA                                                                                                                                                                                                                                             |
+| 1000 Islands    | PULAU HARAPAN, PULAU KELAPA, PULAU PANGGANG, PULAU PARI, PULAU TIDUNG, PULAU UNTUNG JAWA                                                                                                                                                                                      |
+
 ### Mid: 1st Cluster
 
 | Cities          | Sub-district                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -13,3 +22,11 @@
 | North Jakarta   | ANCOL, CILINCING, KALI BARU, KOJA, LAGOA, PADEMANGAN TIMUR, PAPANGGO, PEJAGALAN, PLUIT, RAWA BADAK SELATAN, RAWA BADAK UTARA, ROROTAN, SEMPER TIMUR, SUKAPURA, SUNGAI BAMBU, TANJUNG PRIOK, TUGU SELATAN, WARAKAS                                                                                                                                                                                                                                                                                                                                       |
 
 ### High: 2nd Cluster
+
+| Cities          | Sub-district                                                                                                                                               |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| West Jakarta    | CENGKARENG TIMUR, KALIDERES, KAPUK, KEBON JERUK, PALMERAH                                                                                                  |
+| Central Jakarta | CEMPAKA PUTIH BARAT, JOHAR BARU, RAWASARI                                                                                                                  |
+| South Jakarta   | CILANDAK BARAT, JAGAKARSA, MENTENG ATAS, PONDOK LABU                                                                                                       |
+| East Jakarta    | CIBUBUR, CIRACAS, DUREN SAWIT, JATINEGARA, PENGGILINGAN, PONDOK BAMBU, PULO GEBANG                                                                         |
+| North Jakarta   | KEBON BAWANG, KELAPA GADING BARAT, KELAPA GADING TIMUR, PADEMANGAN BARAT, PEGANGSAAN DUA, PENJARINGAN, SEMPER BARAT, SUNTER AGUNG, SUNTER JAYA, TUGU UTARA |
